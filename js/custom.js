@@ -11,7 +11,7 @@
   $(function () {
     $('.hero-slides').vegas({
       slides: [
-        { src: 'images/yehia pictures/n.4.jpg' },
+        { src: 'images/yehia pictures/i.jpg' },
         { src: 'images/yehia pictures/n2.jpg' },
         { src: 'images/yehia pictures/n3.jpg' },
       ],
